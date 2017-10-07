@@ -1,0 +1,16 @@
+PODS:
+  - Project (0.1.0)
+
+DEPENDENCIES:
+  - Project (from `../`)
+
+EXTERNAL SOURCES:
+  Project:
+    :path: ../
+
+SPEC CHECKSUMS:
+  Project: ad88e1189da2e59ec614881f8029fe279d164b74
+
+PODFILE CHECKSUM: 151b4b355276556b9f9b58e8cdee73a53e88c16e
+
+COCOAPODS: 1.3.1
